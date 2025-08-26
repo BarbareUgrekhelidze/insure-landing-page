@@ -36,4 +36,4 @@ Users should be able to:
 ## Author
 
 - Website - [Insure Landing Page](https://BarbareUgrekhelidze.github.io/insure-landing-page/)
-- Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
