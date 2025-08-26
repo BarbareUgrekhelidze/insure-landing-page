@@ -1,6 +1,6 @@
 # Frontend Mentor - Insure landing page solution
 
-This is a solution to the [Insure landing page challenge on Frontend Mentor](https://github.com/barbare999/insure-landing-page.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Insure landing page challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/insure-landing-page.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/insure-landing-page.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/insure-landing-page/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/insure-landing-page.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/insure-landing-page/)
 
 ## My process
 
@@ -35,5 +35,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Insure Landing Page](https://barbare999.github.io/insure-landing-page/)
+- Website - [Insure Landing Page](https://BarbareUgrekhelidze.github.io/insure-landing-page/)
 - Frontend Mentor - [@barbareUgrekhelidze](https://www.frontendmentor.io/profile/barbare999)
